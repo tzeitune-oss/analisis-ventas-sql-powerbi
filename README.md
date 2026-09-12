@@ -6,7 +6,7 @@ argentino, con 4 categorías de productos y 3 canales de venta.
 
 ## Dashboard
 
-![Dashboard](dashboard.webp)
+![Dashboard](Dashboard.webp)
 
 ## Modelo de datos
 
