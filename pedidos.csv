@@ -1,0 +1,851 @@
+﻿id_pedido,id_cliente,fecha_pedido,canal,estado
+1,53,2025-01-26,Marketplace,Completado
+2,35,2025-06-13,Sitio web,Pendiente
+3,40,2025-08-22,Sitio web,Completado
+4,36,2025-12-26,Marketplace,Pendiente
+5,75,2025-09-29,Sitio web,Completado
+6,50,2026-08-14,App móvil,Completado
+7,1,2026-06-17,Marketplace,Cancelado
+8,43,2025-11-18,Sitio web,Pendiente
+9,38,2026-07-22,Sitio web,Completado
+10,52,2026-07-16,App móvil,Completado
+11,42,2026-04-22,App móvil,Completado
+12,85,2025-03-28,Marketplace,Completado
+13,29,2025-07-23,Sitio web,Completado
+14,79,2025-03-16,App móvil,Completado
+15,52,2025-09-07,Marketplace,Completado
+16,55,2025-08-13,Marketplace,Completado
+17,86,2026-06-28,Marketplace,Cancelado
+18,55,2026-07-16,Sitio web,Completado
+19,81,2025-09-02,App móvil,Completado
+20,31,2025-10-06,App móvil,Completado
+21,30,2026-01-28,Sitio web,Pendiente
+22,70,2026-04-23,Sitio web,Completado
+23,3,2026-08-13,App móvil,Completado
+24,50,2026-03-06,Marketplace,Cancelado
+25,63,2025-01-30,App móvil,Completado
+26,51,2026-08-30,Marketplace,Cancelado
+27,55,2025-05-19,Sitio web,Completado
+28,42,2025-08-05,App móvil,Completado
+29,11,2026-04-27,Marketplace,Completado
+30,84,2025-03-12,Sitio web,Pendiente
+31,3,2025-06-06,Sitio web,Completado
+32,22,2025-04-28,App móvil,Completado
+33,40,2026-08-13,App móvil,Pendiente
+34,39,2025-05-04,Sitio web,Cancelado
+35,83,2025-12-16,App móvil,Completado
+36,23,2026-06-19,App móvil,Pendiente
+37,12,2025-10-13,Sitio web,Completado
+38,24,2026-05-15,App móvil,Completado
+39,72,2025-01-11,Sitio web,Cancelado
+40,53,2026-05-16,Sitio web,Cancelado
+41,52,2025-09-07,Marketplace,Completado
+42,71,2025-12-05,Marketplace,Completado
+43,16,2026-07-03,Sitio web,Pendiente
+44,76,2026-06-22,App móvil,Cancelado
+45,38,2025-08-21,Sitio web,Completado
+46,7,2026-07-21,Marketplace,Completado
+47,2,2026-08-11,App móvil,Completado
+48,52,2026-05-19,Marketplace,Completado
+49,73,2025-11-08,Sitio web,Completado
+50,78,2025-08-20,App móvil,Cancelado
+51,80,2025-03-03,Marketplace,Cancelado
+52,81,2025-08-05,Marketplace,Completado
+53,23,2026-07-20,Sitio web,Completado
+54,77,2026-04-27,Sitio web,Completado
+55,59,2025-03-14,Sitio web,Pendiente
+56,15,2026-07-12,Marketplace,Completado
+57,8,2025-06-19,Marketplace,Completado
+58,52,2025-10-06,Marketplace,Cancelado
+59,33,2025-01-27,Sitio web,Completado
+60,35,2026-08-14,Sitio web,Completado
+61,82,2026-05-19,App móvil,Completado
+62,43,2026-02-26,App móvil,Pendiente
+63,12,2025-11-19,App móvil,Completado
+64,66,2025-01-02,Marketplace,Pendiente
+65,57,2025-02-22,App móvil,Completado
+66,63,2025-05-05,Marketplace,Completado
+67,2,2026-07-20,Sitio web,Completado
+68,16,2025-06-07,Marketplace,Completado
+69,32,2026-04-13,Sitio web,Cancelado
+70,54,2025-12-15,App móvil,Cancelado
+71,39,2026-08-25,Marketplace,Cancelado
+72,70,2026-01-22,App móvil,Completado
+73,30,2026-02-25,App móvil,Completado
+74,64,2025-02-07,Marketplace,Completado
+75,59,2025-01-16,Sitio web,Pendiente
+76,51,2025-03-24,Marketplace,Completado
+77,9,2025-08-29,Marketplace,Pendiente
+78,13,2026-03-31,Marketplace,Completado
+79,46,2026-01-19,Sitio web,Completado
+80,24,2025-06-24,Sitio web,Completado
+81,82,2025-09-18,App móvil,Completado
+82,37,2026-07-14,Sitio web,Completado
+83,39,2025-07-23,App móvil,Completado
+84,74,2026-01-03,App móvil,Cancelado
+85,73,2025-02-20,Marketplace,Cancelado
+86,82,2025-07-14,App móvil,Cancelado
+87,6,2025-11-13,Sitio web,Completado
+88,54,2025-06-29,Sitio web,Completado
+89,62,2025-10-30,App móvil,Pendiente
+90,19,2025-08-20,Marketplace,Pendiente
+91,69,2025-05-07,App móvil,Completado
+92,87,2025-08-28,Sitio web,Completado
+93,60,2025-11-06,App móvil,Pendiente
+94,5,2025-11-08,Sitio web,Completado
+95,18,2026-02-02,App móvil,Completado
+96,79,2026-02-22,Sitio web,Completado
+97,48,2026-07-12,App móvil,Pendiente
+98,25,2025-05-06,Sitio web,Completado
+99,7,2025-12-08,Sitio web,Completado
+100,76,2025-08-10,App móvil,Completado
+101,36,2025-05-29,Marketplace,Completado
+102,2,2026-01-02,Marketplace,Completado
+103,54,2026-06-23,Marketplace,Completado
+104,47,2026-06-10,Sitio web,Cancelado
+105,59,2025-02-01,App móvil,Completado
+106,42,2025-06-01,Sitio web,Completado
+107,49,2026-06-28,App móvil,Completado
+108,28,2026-03-17,Sitio web,Completado
+109,55,2025-11-17,App móvil,Pendiente
+110,11,2025-04-06,Sitio web,Completado
+111,72,2025-12-04,Sitio web,Pendiente
+112,77,2025-11-16,Sitio web,Completado
+113,14,2025-12-25,App móvil,Cancelado
+114,74,2025-08-20,Marketplace,Completado
+115,35,2025-01-30,App móvil,Completado
+116,73,2026-02-15,Sitio web,Completado
+117,68,2025-08-09,App móvil,Completado
+118,11,2025-02-23,Sitio web,Completado
+119,35,2026-03-30,App móvil,Pendiente
+120,56,2025-04-24,Marketplace,Completado
+121,1,2025-07-29,Sitio web,Completado
+122,16,2025-01-08,Marketplace,Completado
+123,86,2025-12-29,App móvil,Completado
+124,59,2025-03-21,Marketplace,Completado
+125,3,2025-11-29,Marketplace,Completado
+126,56,2026-08-27,Marketplace,Completado
+127,44,2025-08-15,Sitio web,Completado
+128,15,2026-06-28,Sitio web,Cancelado
+129,14,2025-05-30,Sitio web,Completado
+130,23,2026-05-21,Marketplace,Completado
+131,81,2025-11-20,App móvil,Completado
+132,81,2025-11-07,Marketplace,Completado
+133,10,2025-11-14,App móvil,Completado
+134,37,2025-03-20,Sitio web,Pendiente
+135,84,2025-07-12,Marketplace,Completado
+136,65,2025-06-26,Sitio web,Completado
+137,53,2025-12-13,Marketplace,Pendiente
+138,83,2025-12-09,App móvil,Completado
+139,50,2025-10-18,Marketplace,Completado
+140,19,2025-12-25,Marketplace,Completado
+141,43,2025-05-11,Marketplace,Pendiente
+142,55,2026-06-05,Sitio web,Completado
+143,29,2025-05-21,Sitio web,Completado
+144,68,2025-02-08,App móvil,Pendiente
+145,24,2025-06-19,App móvil,Pendiente
+146,87,2025-09-01,Marketplace,Completado
+147,31,2025-11-13,Sitio web,Completado
+148,65,2026-06-25,Sitio web,Completado
+149,7,2026-05-08,Marketplace,Completado
+150,16,2025-10-19,Sitio web,Completado
+151,29,2026-04-07,Sitio web,Completado
+152,29,2025-01-29,Sitio web,Completado
+153,18,2026-04-26,Marketplace,Completado
+154,3,2025-09-20,Sitio web,Completado
+155,54,2026-04-14,Sitio web,Completado
+156,19,2025-10-26,Sitio web,Completado
+157,11,2026-06-21,Sitio web,Completado
+158,6,2026-02-01,App móvil,Completado
+159,45,2025-09-04,Marketplace,Pendiente
+160,43,2025-05-17,App móvil,Completado
+161,62,2025-07-06,Sitio web,Completado
+162,66,2026-02-12,App móvil,Cancelado
+163,7,2025-12-06,Sitio web,Completado
+164,44,2025-07-11,Marketplace,Completado
+165,11,2026-03-17,Sitio web,Cancelado
+166,40,2026-04-02,Marketplace,Cancelado
+167,79,2026-03-22,Marketplace,Completado
+168,82,2026-02-20,Marketplace,Completado
+169,57,2025-02-05,Sitio web,Completado
+170,50,2026-08-04,Marketplace,Completado
+171,57,2025-03-20,Sitio web,Cancelado
+172,4,2025-07-10,Marketplace,Completado
+173,79,2025-10-20,App móvil,Pendiente
+174,23,2026-04-01,Marketplace,Completado
+175,38,2025-11-04,Marketplace,Completado
+176,16,2025-07-25,Sitio web,Completado
+177,79,2025-03-30,App móvil,Completado
+178,17,2025-11-21,Sitio web,Pendiente
+179,24,2025-05-13,Marketplace,Completado
+180,67,2025-06-06,Sitio web,Completado
+181,45,2026-06-16,Sitio web,Completado
+182,39,2026-07-01,Marketplace,Completado
+183,80,2025-12-12,Sitio web,Cancelado
+184,83,2026-08-14,Marketplace,Completado
+185,82,2025-02-01,Marketplace,Completado
+186,39,2026-04-10,Marketplace,Completado
+187,54,2026-05-11,Sitio web,Completado
+188,45,2026-02-13,App móvil,Completado
+189,60,2025-05-06,App móvil,Completado
+190,50,2026-03-05,Sitio web,Completado
+191,64,2026-06-12,App móvil,Completado
+192,31,2025-08-09,App móvil,Cancelado
+193,64,2026-04-27,Marketplace,Completado
+194,56,2025-05-18,Marketplace,Completado
+195,73,2026-07-30,App móvil,Completado
+196,80,2025-05-02,Sitio web,Completado
+197,66,2026-02-16,Sitio web,Cancelado
+198,43,2026-05-01,App móvil,Cancelado
+199,42,2025-11-23,App móvil,Completado
+200,73,2025-11-03,Sitio web,Completado
+201,81,2025-01-28,App móvil,Cancelado
+202,7,2026-08-21,Sitio web,Completado
+203,25,2025-01-20,App móvil,Completado
+204,8,2025-05-22,Sitio web,Cancelado
+205,59,2026-06-30,Marketplace,Completado
+206,34,2026-05-11,Sitio web,Completado
+207,27,2026-05-16,App móvil,Completado
+208,16,2026-08-11,Marketplace,Pendiente
+209,11,2025-12-21,Marketplace,Completado
+210,72,2025-10-06,Sitio web,Completado
+211,29,2025-08-27,Sitio web,Completado
+212,21,2026-02-21,App móvil,Pendiente
+213,12,2026-08-11,Marketplace,Completado
+214,54,2025-06-30,App móvil,Completado
+215,73,2025-04-20,App móvil,Completado
+216,25,2025-04-26,Sitio web,Completado
+217,73,2025-07-17,Marketplace,Completado
+218,24,2025-05-24,App móvil,Completado
+219,58,2025-10-01,App móvil,Completado
+220,47,2025-08-30,Marketplace,Completado
+221,21,2026-02-20,Marketplace,Pendiente
+222,29,2025-08-13,App móvil,Completado
+223,54,2026-07-17,Marketplace,Completado
+224,11,2026-06-23,Marketplace,Completado
+225,65,2025-07-27,Marketplace,Cancelado
+226,15,2025-07-30,Marketplace,Pendiente
+227,54,2026-04-13,Sitio web,Cancelado
+228,28,2026-08-16,Sitio web,Completado
+229,37,2026-02-23,Sitio web,Completado
+230,85,2026-07-07,Marketplace,Completado
+231,29,2025-01-04,App móvil,Completado
+232,59,2025-12-21,App móvil,Completado
+233,5,2026-03-06,Sitio web,Cancelado
+234,5,2026-04-03,Marketplace,Cancelado
+235,6,2026-02-16,Sitio web,Completado
+236,65,2025-10-24,Marketplace,Completado
+237,39,2025-05-27,Marketplace,Pendiente
+238,72,2026-08-29,Sitio web,Pendiente
+239,41,2026-03-03,Sitio web,Completado
+240,29,2025-11-04,Sitio web,Pendiente
+241,50,2025-09-06,Sitio web,Completado
+242,69,2025-07-15,App móvil,Completado
+243,86,2026-07-27,App móvil,Completado
+244,2,2025-08-05,Marketplace,Completado
+245,32,2025-07-29,Sitio web,Completado
+246,46,2025-11-12,App móvil,Completado
+247,41,2026-02-28,Marketplace,Completado
+248,71,2026-08-22,Marketplace,Cancelado
+249,64,2026-07-18,Marketplace,Pendiente
+250,63,2026-04-17,Marketplace,Completado
+251,70,2025-03-02,Sitio web,Cancelado
+252,7,2025-01-07,Sitio web,Completado
+253,28,2026-06-02,App móvil,Completado
+254,86,2026-05-10,App móvil,Pendiente
+255,71,2026-02-26,Sitio web,Completado
+256,56,2025-07-03,Sitio web,Completado
+257,33,2025-12-29,App móvil,Completado
+258,59,2026-08-02,Marketplace,Completado
+259,84,2025-02-02,App móvil,Completado
+260,11,2026-05-27,Marketplace,Completado
+261,28,2026-08-04,App móvil,Completado
+262,88,2025-10-15,Marketplace,Cancelado
+263,3,2025-08-01,Sitio web,Cancelado
+264,87,2026-07-08,App móvil,Completado
+265,65,2025-12-21,Sitio web,Completado
+266,42,2025-01-31,App móvil,Pendiente
+267,75,2026-01-25,Marketplace,Completado
+268,20,2026-01-25,Marketplace,Pendiente
+269,14,2025-04-04,App móvil,Completado
+270,58,2026-07-25,Marketplace,Cancelado
+271,42,2026-01-30,App móvil,Completado
+272,22,2026-01-25,Sitio web,Completado
+273,56,2025-10-10,App móvil,Completado
+274,77,2025-07-20,Sitio web,Completado
+275,80,2026-01-25,App móvil,Completado
+276,39,2025-11-25,Marketplace,Cancelado
+277,41,2025-10-26,Marketplace,Pendiente
+278,15,2026-08-01,Marketplace,Completado
+279,60,2025-08-03,App móvil,Completado
+280,87,2026-05-27,Marketplace,Completado
+281,49,2025-03-17,Marketplace,Completado
+282,47,2026-07-04,Marketplace,Cancelado
+283,85,2025-12-30,Marketplace,Completado
+284,87,2026-02-14,App móvil,Completado
+285,34,2025-08-16,Marketplace,Cancelado
+286,87,2026-08-26,Marketplace,Pendiente
+287,38,2026-03-02,Sitio web,Completado
+288,27,2026-06-18,App móvil,Completado
+289,6,2025-04-28,App móvil,Completado
+290,32,2026-06-13,Marketplace,Completado
+291,30,2026-02-19,Sitio web,Pendiente
+292,4,2025-07-22,Marketplace,Completado
+293,74,2025-04-15,Sitio web,Cancelado
+294,63,2026-06-25,App móvil,Pendiente
+295,23,2025-11-01,Marketplace,Cancelado
+296,41,2025-05-01,App móvil,Completado
+297,19,2026-06-08,App móvil,Completado
+298,63,2026-07-05,Marketplace,Pendiente
+299,18,2025-07-11,App móvil,Completado
+300,2,2026-05-12,Sitio web,Completado
+301,57,2026-05-16,Sitio web,Completado
+302,38,2025-02-03,Sitio web,Completado
+303,71,2026-06-08,Marketplace,Completado
+304,47,2026-07-10,Marketplace,Completado
+305,5,2026-04-06,App móvil,Completado
+306,31,2025-08-03,Marketplace,Pendiente
+307,79,2025-05-23,Sitio web,Completado
+308,69,2025-10-15,Marketplace,Cancelado
+309,74,2025-10-01,Marketplace,Cancelado
+310,8,2025-10-11,Sitio web,Pendiente
+311,32,2026-02-07,Sitio web,Completado
+312,12,2026-02-17,Marketplace,Cancelado
+313,42,2026-08-19,Marketplace,Completado
+314,82,2026-01-02,Marketplace,Completado
+315,71,2026-08-15,Marketplace,Completado
+316,59,2025-01-17,Sitio web,Completado
+317,21,2025-10-08,Marketplace,Completado
+318,7,2026-02-10,App móvil,Pendiente
+319,13,2025-01-02,App móvil,Completado
+320,29,2026-06-16,App móvil,Pendiente
+321,44,2025-05-04,Marketplace,Completado
+322,12,2025-04-15,App móvil,Completado
+323,87,2025-05-27,Marketplace,Completado
+324,22,2026-03-27,Marketplace,Completado
+325,79,2026-03-30,Sitio web,Completado
+326,76,2026-01-29,App móvil,Completado
+327,32,2026-07-21,Marketplace,Cancelado
+328,67,2026-06-06,Marketplace,Completado
+329,31,2026-05-27,Marketplace,Pendiente
+330,47,2025-11-21,App móvil,Completado
+331,9,2025-01-15,Sitio web,Completado
+332,51,2026-06-03,Marketplace,Completado
+333,20,2025-10-12,App móvil,Completado
+334,20,2026-07-04,App móvil,Completado
+335,56,2025-09-02,Sitio web,Completado
+336,15,2026-04-10,Marketplace,Cancelado
+337,85,2025-06-29,Sitio web,Completado
+338,45,2026-06-20,Marketplace,Cancelado
+339,16,2025-01-31,App móvil,Completado
+340,10,2026-05-24,Marketplace,Completado
+341,21,2025-09-19,Marketplace,Completado
+342,66,2025-01-03,Sitio web,Completado
+343,20,2025-07-03,Marketplace,Completado
+344,74,2026-01-17,Marketplace,Completado
+345,67,2025-02-17,Sitio web,Completado
+346,59,2025-01-09,Sitio web,Completado
+347,60,2026-01-13,App móvil,Cancelado
+348,20,2025-01-07,Sitio web,Completado
+349,2,2025-12-10,Marketplace,Completado
+350,54,2026-05-19,Sitio web,Completado
+351,48,2026-04-15,Sitio web,Pendiente
+352,82,2026-02-08,Marketplace,Completado
+353,17,2025-08-31,App móvil,Completado
+354,41,2026-04-09,Sitio web,Completado
+355,75,2025-04-22,Sitio web,Completado
+356,16,2026-07-03,Sitio web,Completado
+357,39,2025-02-11,App móvil,Completado
+358,51,2026-06-10,Marketplace,Completado
+359,72,2026-07-18,Sitio web,Completado
+360,17,2025-07-22,App móvil,Completado
+361,34,2025-03-18,Sitio web,Completado
+362,12,2025-12-06,Sitio web,Completado
+363,4,2026-01-27,App móvil,Pendiente
+364,36,2026-04-02,Sitio web,Completado
+365,71,2026-05-06,Sitio web,Completado
+366,32,2026-07-11,App móvil,Completado
+367,65,2025-11-26,App móvil,Completado
+368,4,2025-10-15,App móvil,Completado
+369,85,2025-09-04,Marketplace,Completado
+370,74,2026-02-02,Sitio web,Completado
+371,46,2026-08-29,Marketplace,Completado
+372,23,2026-05-18,Sitio web,Completado
+373,29,2025-01-21,App móvil,Cancelado
+374,26,2025-05-14,Marketplace,Completado
+375,3,2025-06-01,Marketplace,Cancelado
+376,10,2026-01-18,Marketplace,Pendiente
+377,56,2026-05-14,App móvil,Pendiente
+378,46,2025-08-17,Marketplace,Pendiente
+379,38,2025-05-11,Marketplace,Completado
+380,51,2026-08-05,Sitio web,Completado
+381,14,2026-05-24,App móvil,Completado
+382,41,2025-06-21,Sitio web,Pendiente
+383,9,2025-12-25,Sitio web,Completado
+384,57,2026-03-06,App móvil,Completado
+385,84,2025-08-19,App móvil,Completado
+386,38,2025-01-21,App móvil,Completado
+387,22,2026-01-20,Marketplace,Completado
+388,44,2026-05-10,Sitio web,Pendiente
+389,43,2025-07-30,App móvil,Completado
+390,51,2026-08-09,App móvil,Cancelado
+391,12,2025-10-29,Marketplace,Pendiente
+392,61,2025-04-29,App móvil,Completado
+393,24,2026-01-15,App móvil,Completado
+394,60,2025-09-27,App móvil,Completado
+395,86,2025-04-10,Marketplace,Completado
+396,8,2026-02-01,App móvil,Cancelado
+397,5,2026-05-30,Marketplace,Cancelado
+398,22,2025-08-05,Sitio web,Completado
+399,88,2026-03-22,Marketplace,Completado
+400,9,2025-03-31,Marketplace,Completado
+401,80,2026-08-25,App móvil,Cancelado
+402,19,2026-08-04,Marketplace,Cancelado
+403,73,2025-04-14,Marketplace,Completado
+404,74,2026-04-30,Sitio web,Completado
+405,52,2025-02-09,App móvil,Completado
+406,48,2025-01-21,App móvil,Completado
+407,30,2025-05-18,Marketplace,Completado
+408,12,2025-07-12,Sitio web,Completado
+409,9,2025-11-15,Marketplace,Pendiente
+410,26,2025-03-01,Sitio web,Completado
+411,65,2026-02-11,Sitio web,Pendiente
+412,63,2026-04-02,App móvil,Completado
+413,12,2025-10-19,App móvil,Completado
+414,28,2025-08-15,Sitio web,Pendiente
+415,3,2025-01-10,Sitio web,Completado
+416,33,2025-11-09,Marketplace,Pendiente
+417,28,2026-04-23,Marketplace,Completado
+418,77,2025-10-17,Marketplace,Completado
+419,44,2025-10-11,App móvil,Pendiente
+420,20,2026-06-14,Sitio web,Completado
+421,38,2025-09-23,App móvil,Completado
+422,29,2026-07-02,App móvil,Pendiente
+423,24,2025-10-28,App móvil,Completado
+424,24,2025-12-10,Sitio web,Pendiente
+425,54,2025-12-06,App móvil,Completado
+426,75,2026-08-18,Sitio web,Cancelado
+427,53,2025-02-25,Sitio web,Completado
+428,19,2025-11-20,Sitio web,Pendiente
+429,81,2025-07-01,Marketplace,Completado
+430,36,2025-08-03,Marketplace,Completado
+431,79,2026-03-21,App móvil,Pendiente
+432,48,2025-01-15,Marketplace,Completado
+433,32,2025-08-20,App móvil,Pendiente
+434,22,2025-03-08,App móvil,Completado
+435,56,2025-05-18,App móvil,Completado
+436,29,2025-05-15,Marketplace,Completado
+437,22,2025-05-07,Marketplace,Completado
+438,33,2026-07-02,Sitio web,Cancelado
+439,84,2025-01-21,Marketplace,Completado
+440,49,2025-05-07,App móvil,Cancelado
+441,85,2025-04-14,Marketplace,Pendiente
+442,66,2025-05-01,Sitio web,Completado
+443,78,2025-07-24,Marketplace,Completado
+444,21,2025-02-10,App móvil,Cancelado
+445,31,2025-01-03,Marketplace,Completado
+446,74,2026-05-21,Sitio web,Completado
+447,13,2025-09-20,Sitio web,Pendiente
+448,47,2025-11-17,Marketplace,Completado
+449,2,2025-05-22,Marketplace,Pendiente
+450,35,2025-04-06,App móvil,Completado
+451,35,2026-01-30,App móvil,Pendiente
+452,8,2025-06-13,App móvil,Completado
+453,79,2025-01-30,Marketplace,Pendiente
+454,53,2026-03-28,Sitio web,Completado
+455,74,2026-08-02,Marketplace,Completado
+456,32,2026-05-09,Marketplace,Completado
+457,21,2026-06-02,App móvil,Completado
+458,31,2025-12-05,Sitio web,Completado
+459,31,2025-03-22,App móvil,Completado
+460,84,2025-01-19,App móvil,Completado
+461,39,2026-06-05,Sitio web,Cancelado
+462,80,2026-04-30,Marketplace,Pendiente
+463,1,2025-12-16,Marketplace,Completado
+464,22,2026-05-20,Marketplace,Completado
+465,59,2025-07-15,App móvil,Pendiente
+466,6,2026-08-26,App móvil,Completado
+467,7,2026-07-21,Marketplace,Completado
+468,17,2025-04-17,Marketplace,Completado
+469,32,2025-10-08,App móvil,Completado
+470,66,2025-11-03,Marketplace,Pendiente
+471,26,2025-08-03,Marketplace,Cancelado
+472,84,2025-07-02,Marketplace,Cancelado
+473,75,2026-08-08,Marketplace,Pendiente
+474,67,2025-04-20,App móvil,Completado
+475,35,2025-06-14,Marketplace,Completado
+476,70,2025-02-03,App móvil,Completado
+477,72,2025-08-18,Marketplace,Pendiente
+478,7,2026-01-26,App móvil,Completado
+479,80,2026-03-30,Marketplace,Completado
+480,25,2025-10-29,Sitio web,Completado
+481,66,2025-05-03,Sitio web,Completado
+482,43,2026-04-23,Sitio web,Pendiente
+483,77,2025-02-22,Marketplace,Pendiente
+484,41,2026-06-23,Sitio web,Completado
+485,21,2026-03-02,Marketplace,Cancelado
+486,47,2025-10-28,Marketplace,Completado
+487,58,2025-09-04,Marketplace,Pendiente
+488,15,2026-01-31,Marketplace,Completado
+489,58,2026-05-14,App móvil,Completado
+490,22,2026-07-05,Sitio web,Cancelado
+491,81,2025-08-07,App móvil,Pendiente
+492,56,2025-03-15,Marketplace,Pendiente
+493,5,2025-03-31,Sitio web,Completado
+494,74,2025-08-22,App móvil,Completado
+495,16,2026-07-02,Marketplace,Completado
+496,75,2025-02-16,Sitio web,Pendiente
+497,78,2025-03-30,App móvil,Completado
+498,18,2026-02-05,App móvil,Cancelado
+499,48,2025-01-12,Marketplace,Cancelado
+500,77,2026-02-08,Marketplace,Cancelado
+501,45,2025-08-05,Marketplace,Completado
+502,33,2025-07-18,Sitio web,Completado
+503,60,2026-07-17,App móvil,Completado
+504,26,2026-08-18,App móvil,Completado
+505,80,2025-03-13,App móvil,Completado
+506,73,2026-08-04,App móvil,Completado
+507,56,2025-10-11,Sitio web,Completado
+508,63,2026-07-19,Sitio web,Completado
+509,18,2026-07-06,App móvil,Completado
+510,3,2026-06-04,Sitio web,Pendiente
+511,70,2026-04-29,Sitio web,Pendiente
+512,18,2026-04-21,Marketplace,Cancelado
+513,65,2025-01-11,Sitio web,Pendiente
+514,21,2025-07-03,Marketplace,Cancelado
+515,6,2025-08-13,Sitio web,Completado
+516,30,2025-02-13,Sitio web,Pendiente
+517,84,2025-11-28,Marketplace,Completado
+518,23,2026-01-21,App móvil,Pendiente
+519,49,2025-08-17,App móvil,Cancelado
+520,1,2026-05-29,App móvil,Completado
+521,36,2025-08-05,Sitio web,Completado
+522,85,2025-08-24,App móvil,Completado
+523,62,2026-05-06,Marketplace,Completado
+524,32,2025-02-14,Marketplace,Completado
+525,74,2025-05-31,Sitio web,Completado
+526,82,2025-01-20,Marketplace,Pendiente
+527,22,2025-08-13,Marketplace,Completado
+528,85,2026-06-08,Sitio web,Completado
+529,49,2026-01-30,Sitio web,Completado
+530,65,2026-03-06,Marketplace,Completado
+531,79,2025-02-09,Marketplace,Cancelado
+532,85,2025-05-14,Marketplace,Cancelado
+533,84,2026-03-18,App móvil,Cancelado
+534,62,2026-01-26,Marketplace,Completado
+535,33,2026-05-04,Sitio web,Completado
+536,1,2025-01-08,Marketplace,Cancelado
+537,49,2025-07-30,App móvil,Pendiente
+538,69,2026-03-10,App móvil,Cancelado
+539,72,2026-05-10,App móvil,Completado
+540,85,2025-05-02,Sitio web,Pendiente
+541,71,2025-02-23,App móvil,Completado
+542,19,2026-04-28,App móvil,Cancelado
+543,29,2026-01-15,Marketplace,Completado
+544,52,2026-06-18,Marketplace,Completado
+545,82,2026-05-22,Sitio web,Completado
+546,25,2025-02-04,Marketplace,Cancelado
+547,47,2025-09-02,Sitio web,Pendiente
+548,86,2026-02-09,Marketplace,Completado
+549,9,2025-04-03,App móvil,Cancelado
+550,59,2026-02-18,Sitio web,Cancelado
+551,65,2025-10-29,Sitio web,Completado
+552,57,2026-01-22,App móvil,Cancelado
+553,59,2026-08-24,App móvil,Completado
+554,49,2025-08-14,Marketplace,Pendiente
+555,67,2026-07-03,Marketplace,Completado
+556,44,2025-03-19,Sitio web,Cancelado
+557,88,2025-07-14,Marketplace,Completado
+558,27,2025-08-23,Sitio web,Completado
+559,85,2026-05-20,Sitio web,Cancelado
+560,48,2025-11-19,Marketplace,Completado
+561,29,2026-08-14,Sitio web,Completado
+562,59,2025-05-04,Marketplace,Pendiente
+563,42,2026-01-06,App móvil,Cancelado
+564,61,2025-12-18,Sitio web,Completado
+565,58,2025-07-04,Sitio web,Cancelado
+566,31,2026-07-23,App móvil,Completado
+567,61,2025-01-10,App móvil,Completado
+568,63,2025-11-04,Marketplace,Completado
+569,21,2025-03-03,App móvil,Completado
+570,47,2026-07-28,App móvil,Cancelado
+571,26,2026-08-14,Marketplace,Cancelado
+572,87,2026-06-07,Marketplace,Completado
+573,22,2025-12-12,Marketplace,Completado
+574,41,2025-10-26,App móvil,Pendiente
+575,58,2026-02-28,Sitio web,Completado
+576,31,2025-09-15,Marketplace,Pendiente
+577,51,2025-04-16,Sitio web,Completado
+578,34,2025-06-09,Marketplace,Completado
+579,17,2026-06-24,Sitio web,Completado
+580,42,2026-05-03,Marketplace,Completado
+581,76,2026-04-13,Marketplace,Pendiente
+582,12,2026-03-29,App móvil,Completado
+583,37,2026-04-26,Sitio web,Cancelado
+584,1,2026-07-16,Sitio web,Completado
+585,83,2026-02-04,Sitio web,Completado
+586,88,2025-10-06,Marketplace,Completado
+587,38,2025-04-24,App móvil,Pendiente
+588,7,2026-07-02,Sitio web,Completado
+589,17,2026-03-25,Sitio web,Pendiente
+590,28,2025-12-17,App móvil,Completado
+591,8,2025-09-30,Sitio web,Completado
+592,32,2026-01-30,Sitio web,Completado
+593,13,2026-06-18,Sitio web,Pendiente
+594,6,2026-07-17,Sitio web,Cancelado
+595,86,2025-08-12,Sitio web,Completado
+596,32,2025-01-10,Marketplace,Completado
+597,12,2025-12-13,Sitio web,Pendiente
+598,20,2026-07-04,Sitio web,Completado
+599,25,2025-01-22,App móvil,Pendiente
+600,57,2026-07-27,Marketplace,Completado
+601,36,2026-07-22,Sitio web,Completado
+602,47,2026-04-10,Marketplace,Completado
+603,42,2025-03-06,Marketplace,Pendiente
+604,42,2026-02-24,App móvil,Pendiente
+605,85,2025-03-10,Sitio web,Completado
+606,63,2025-07-16,Sitio web,Completado
+607,47,2025-08-15,Marketplace,Cancelado
+608,84,2026-05-19,App móvil,Completado
+609,54,2026-01-13,Sitio web,Pendiente
+610,28,2026-06-16,Sitio web,Completado
+611,68,2025-09-12,Marketplace,Cancelado
+612,14,2026-08-14,Marketplace,Completado
+613,52,2026-06-01,Marketplace,Completado
+614,41,2026-07-18,App móvil,Completado
+615,73,2026-07-13,App móvil,Completado
+616,37,2025-01-17,Sitio web,Cancelado
+617,36,2026-07-21,Marketplace,Cancelado
+618,20,2025-05-22,App móvil,Completado
+619,74,2026-02-14,Sitio web,Cancelado
+620,62,2025-06-27,Marketplace,Completado
+621,39,2025-02-08,Marketplace,Pendiente
+622,16,2025-08-21,Marketplace,Pendiente
+623,49,2025-02-25,Marketplace,Completado
+624,73,2025-06-03,Marketplace,Completado
+625,51,2026-04-02,Marketplace,Cancelado
+626,38,2026-02-08,Sitio web,Completado
+627,52,2025-09-26,App móvil,Completado
+628,63,2026-02-09,Marketplace,Pendiente
+629,32,2025-09-06,App móvil,Completado
+630,55,2026-01-10,Sitio web,Completado
+631,45,2026-03-29,Sitio web,Cancelado
+632,11,2025-04-26,Sitio web,Pendiente
+633,2,2025-12-18,Sitio web,Pendiente
+634,69,2025-08-05,Marketplace,Completado
+635,86,2025-01-19,Marketplace,Completado
+636,8,2025-10-18,Marketplace,Completado
+637,85,2025-10-05,Marketplace,Pendiente
+638,30,2026-01-25,Marketplace,Cancelado
+639,63,2026-06-29,Sitio web,Completado
+640,3,2025-02-10,Marketplace,Completado
+641,45,2025-12-27,Marketplace,Completado
+642,50,2025-01-31,App móvil,Cancelado
+643,18,2025-03-31,App móvil,Pendiente
+644,55,2025-11-16,App móvil,Cancelado
+645,26,2025-05-22,Marketplace,Completado
+646,73,2025-06-11,Sitio web,Completado
+647,19,2025-01-31,App móvil,Completado
+648,25,2025-04-20,Sitio web,Completado
+649,79,2025-10-01,Marketplace,Cancelado
+650,4,2026-01-03,Marketplace,Completado
+651,24,2026-02-01,App móvil,Completado
+652,53,2025-01-16,App móvil,Completado
+653,9,2025-07-01,Marketplace,Completado
+654,78,2026-01-25,App móvil,Pendiente
+655,5,2026-06-18,App móvil,Completado
+656,6,2026-07-26,Marketplace,Completado
+657,57,2026-02-12,App móvil,Completado
+658,60,2026-04-08,Marketplace,Completado
+659,70,2025-05-19,App móvil,Completado
+660,26,2026-04-11,App móvil,Completado
+661,16,2025-04-04,Marketplace,Completado
+662,79,2025-06-13,Marketplace,Completado
+663,21,2025-05-29,Marketplace,Completado
+664,40,2026-04-02,Marketplace,Completado
+665,1,2025-09-17,App móvil,Completado
+666,28,2026-08-26,App móvil,Pendiente
+667,36,2026-07-25,Sitio web,Completado
+668,5,2025-05-29,Marketplace,Completado
+669,23,2025-06-15,App móvil,Pendiente
+670,5,2025-04-06,App móvil,Completado
+671,9,2025-10-27,Sitio web,Completado
+672,43,2026-06-24,Marketplace,Completado
+673,14,2026-08-09,Marketplace,Pendiente
+674,78,2025-10-22,Marketplace,Completado
+675,79,2026-07-31,Marketplace,Completado
+676,25,2025-01-02,Sitio web,Completado
+677,6,2025-12-08,Marketplace,Completado
+678,37,2025-09-18,App móvil,Completado
+679,43,2025-12-16,Marketplace,Completado
+680,25,2025-12-05,Marketplace,Completado
+681,81,2026-04-17,App móvil,Cancelado
+682,73,2025-11-20,Marketplace,Cancelado
+683,88,2025-12-06,Sitio web,Completado
+684,49,2026-07-02,Marketplace,Completado
+685,5,2025-10-06,Sitio web,Completado
+686,23,2025-04-25,Sitio web,Completado
+687,4,2026-05-10,Sitio web,Cancelado
+688,68,2025-11-14,Sitio web,Completado
+689,87,2025-05-16,Marketplace,Completado
+690,67,2025-04-29,App móvil,Completado
+691,12,2025-12-08,Sitio web,Completado
+692,40,2025-01-24,App móvil,Cancelado
+693,36,2026-06-30,App móvil,Completado
+694,21,2025-10-08,Sitio web,Completado
+695,45,2026-07-17,App móvil,Completado
+696,32,2025-06-25,App móvil,Completado
+697,87,2025-02-21,App móvil,Completado
+698,51,2025-07-03,Marketplace,Pendiente
+699,11,2026-04-22,Sitio web,Cancelado
+700,60,2025-04-10,App móvil,Completado
+701,24,2025-12-05,App móvil,Completado
+702,37,2025-12-23,Marketplace,Cancelado
+703,14,2025-11-30,Marketplace,Cancelado
+704,69,2026-04-18,Marketplace,Completado
+705,27,2026-08-29,App móvil,Completado
+706,10,2026-08-11,Sitio web,Completado
+707,9,2025-04-22,Marketplace,Pendiente
+708,75,2025-01-01,Marketplace,Completado
+709,79,2026-08-15,Sitio web,Completado
+710,73,2025-11-08,Marketplace,Completado
+711,17,2025-10-29,App móvil,Completado
+712,72,2026-01-03,App móvil,Completado
+713,76,2026-02-08,App móvil,Pendiente
+714,18,2025-07-12,App móvil,Cancelado
+715,18,2025-01-12,Marketplace,Completado
+716,63,2026-03-24,Sitio web,Completado
+717,78,2026-03-12,Sitio web,Cancelado
+718,24,2026-03-11,Sitio web,Cancelado
+719,74,2026-01-11,Sitio web,Completado
+720,68,2025-10-14,Marketplace,Completado
+721,12,2025-09-09,Marketplace,Completado
+722,70,2026-08-17,Marketplace,Completado
+723,69,2025-01-12,App móvil,Completado
+724,5,2025-11-08,Marketplace,Pendiente
+725,7,2025-10-26,Marketplace,Pendiente
+726,11,2025-05-10,Sitio web,Cancelado
+727,2,2025-04-25,Sitio web,Cancelado
+728,34,2025-08-30,Sitio web,Completado
+729,19,2025-06-07,App móvil,Completado
+730,45,2025-02-25,App móvil,Pendiente
+731,60,2026-02-13,App móvil,Completado
+732,50,2026-05-01,Sitio web,Completado
+733,68,2025-02-12,Marketplace,Completado
+734,35,2025-10-01,App móvil,Completado
+735,25,2026-06-17,Marketplace,Completado
+736,2,2025-03-11,App móvil,Completado
+737,88,2026-04-02,Sitio web,Completado
+738,8,2025-08-11,Marketplace,Cancelado
+739,12,2025-05-14,Marketplace,Completado
+740,33,2025-10-29,Marketplace,Completado
+741,36,2026-03-14,Marketplace,Pendiente
+742,49,2026-02-02,Sitio web,Completado
+743,26,2026-02-07,Marketplace,Completado
+744,14,2026-03-29,App móvil,Pendiente
+745,10,2026-08-09,App móvil,Pendiente
+746,86,2026-02-04,Sitio web,Completado
+747,63,2026-05-05,App móvil,Completado
+748,1,2026-01-29,App móvil,Pendiente
+749,46,2025-12-08,App móvil,Pendiente
+750,59,2025-10-24,Sitio web,Pendiente
+751,25,2025-11-03,App móvil,Pendiente
+752,46,2026-05-14,Marketplace,Completado
+753,31,2026-05-16,Sitio web,Completado
+754,44,2025-02-27,Marketplace,Completado
+755,28,2026-06-20,Marketplace,Completado
+756,5,2025-05-25,Marketplace,Completado
+757,6,2025-09-06,Marketplace,Pendiente
+758,40,2025-04-10,Marketplace,Completado
+759,15,2026-05-25,Marketplace,Cancelado
+760,44,2026-02-16,Sitio web,Completado
+761,76,2025-06-27,Sitio web,Completado
+762,54,2025-06-22,App móvil,Pendiente
+763,18,2025-04-13,Marketplace,Pendiente
+764,23,2025-04-02,Marketplace,Pendiente
+765,27,2025-05-27,App móvil,Pendiente
+766,64,2025-04-01,App móvil,Pendiente
+767,68,2025-04-08,App móvil,Cancelado
+768,27,2025-10-11,Sitio web,Completado
+769,88,2026-05-01,Sitio web,Completado
+770,83,2026-01-08,Sitio web,Completado
+771,7,2026-07-05,Sitio web,Completado
+772,15,2025-03-14,Marketplace,Completado
+773,15,2025-11-30,Sitio web,Completado
+774,29,2025-03-17,Marketplace,Completado
+775,50,2026-01-18,App móvil,Completado
+776,43,2025-05-11,Marketplace,Completado
+777,15,2026-04-22,App móvil,Completado
+778,78,2025-06-10,Marketplace,Pendiente
+779,53,2026-06-19,Sitio web,Completado
+780,32,2025-12-02,Marketplace,Completado
+781,74,2025-01-06,Sitio web,Completado
+782,65,2025-02-04,Marketplace,Completado
+783,11,2026-07-26,Marketplace,Completado
+784,62,2025-11-09,Marketplace,Completado
+785,52,2025-07-09,Marketplace,Completado
+786,43,2026-06-28,App móvil,Completado
+787,11,2025-12-10,Sitio web,Pendiente
+788,80,2025-02-11,App móvil,Completado
+789,72,2025-07-29,App móvil,Completado
+790,75,2025-08-03,Sitio web,Pendiente
+791,36,2025-02-25,App móvil,Completado
+792,69,2026-06-30,App móvil,Completado
+793,12,2025-03-24,Sitio web,Completado
+794,19,2026-05-24,Sitio web,Completado
+795,88,2026-07-09,App móvil,Completado
+796,25,2025-03-06,Sitio web,Completado
+797,63,2026-08-31,Marketplace,Pendiente
+798,62,2026-01-16,Sitio web,Completado
+799,80,2025-06-14,Marketplace,Pendiente
+800,21,2025-09-01,Sitio web,Completado
+801,27,2026-07-30,Sitio web,Pendiente
+802,69,2025-11-05,Sitio web,Completado
+803,70,2026-06-04,Marketplace,Completado
+804,73,2026-03-29,Marketplace,Completado
+805,6,2025-05-23,Marketplace,Pendiente
+806,52,2025-08-14,App móvil,Completado
+807,78,2025-07-19,Marketplace,Cancelado
+808,3,2025-03-27,App móvil,Cancelado
+809,25,2026-05-18,Marketplace,Completado
+810,47,2026-02-12,Marketplace,Completado
+811,72,2025-03-31,Marketplace,Completado
+812,54,2025-05-23,Marketplace,Cancelado
+813,39,2026-05-02,App móvil,Cancelado
+814,49,2025-04-01,App móvil,Completado
+815,18,2025-07-24,App móvil,Completado
+816,64,2026-07-27,App móvil,Pendiente
+817,34,2025-11-04,Marketplace,Pendiente
+818,83,2025-09-08,Sitio web,Completado
+819,62,2026-08-03,App móvil,Completado
+820,34,2025-06-16,Sitio web,Cancelado
+821,46,2025-06-17,App móvil,Completado
+822,38,2026-06-27,Sitio web,Pendiente
+823,77,2025-06-21,App móvil,Cancelado
+824,47,2025-04-09,Marketplace,Cancelado
+825,48,2026-05-12,App móvil,Completado
+826,29,2025-07-12,Marketplace,Cancelado
+827,10,2025-04-30,Sitio web,Completado
+828,44,2025-06-26,App móvil,Pendiente
+829,29,2025-05-12,Sitio web,Pendiente
+830,11,2026-03-12,Sitio web,Pendiente
+831,56,2025-02-13,Sitio web,Completado
+832,66,2026-08-31,App móvil,Completado
+833,6,2025-03-09,Marketplace,Completado
+834,16,2025-07-30,Sitio web,Cancelado
+835,19,2025-10-12,App móvil,Cancelado
+836,65,2026-08-07,Sitio web,Completado
+837,25,2025-10-16,Marketplace,Completado
+838,28,2026-06-01,App móvil,Pendiente
+839,24,2025-12-30,App móvil,Completado
+840,41,2025-05-07,Sitio web,Completado
+841,37,2026-07-25,Sitio web,Pendiente
+842,15,2026-01-30,App móvil,Completado
+843,38,2026-03-15,Sitio web,Completado
+844,51,2026-03-25,Marketplace,Cancelado
+845,51,2026-02-15,Marketplace,Pendiente
+846,9,2026-01-08,App móvil,Completado
+847,30,2026-03-11,App móvil,Pendiente
+848,83,2026-02-14,App móvil,Completado
+849,63,2026-05-25,Marketplace,Completado
+850,9,2026-05-26,Sitio web,Pendiente

@@ -1,0 +1,61 @@
+﻿id_producto,nombre_producto,categoria,precio_unitario,costo_unitario
+1,Remera modelo 1,Indumentaria,15100.0,7930.0
+2,Remera modelo 2,Indumentaria,71200.0,45580.0
+3,Remera modelo 3,Indumentaria,60400.0,36020.0
+4,Buzo modelo 1,Indumentaria,52800.0,30080.0
+5,Buzo modelo 2,Indumentaria,83900.0,40370.0
+6,Buzo modelo 3,Indumentaria,56300.0,27090.0
+7,Campera modelo 1,Indumentaria,2600.0,1200.0
+8,Campera modelo 2,Indumentaria,69800.0,43500.0
+9,Campera modelo 3,Indumentaria,26800.0,15280.0
+10,Pantalón modelo 1,Indumentaria,57100.0,33780.0
+11,Pantalón modelo 2,Indumentaria,79900.0,36280.0
+12,Pantalón modelo 3,Indumentaria,13100.0,8440.0
+13,Zapatillas modelo 1,Indumentaria,11600.0,7150.0
+14,Zapatillas modelo 2,Indumentaria,10900.0,5370.0
+15,Zapatillas modelo 3,Indumentaria,47900.0,23300.0
+16,Set de sábanas modelo 1,Hogar,24600.0,11970.0
+17,Set de sábanas modelo 2,Hogar,52200.0,26670.0
+18,Set de sábanas modelo 3,Hogar,61600.0,34180.0
+19,Lámpara modelo 1,Hogar,18900.0,10140.0
+20,Lámpara modelo 2,Hogar,54600.0,27750.0
+21,Lámpara modelo 3,Hogar,23900.0,13680.0
+22,Silla modelo 1,Hogar,42500.0,20310.0
+23,Silla modelo 2,Hogar,77100.0,39200.0
+24,Silla modelo 3,Hogar,72200.0,37780.0
+25,Mesa ratona modelo 1,Hogar,9700.0,5250.0
+26,Mesa ratona modelo 2,Hogar,37200.0,22580.0
+27,Mesa ratona modelo 3,Hogar,25000.0,12250.0
+28,Cortina modelo 1,Hogar,2300.0,1270.0
+29,Cortina modelo 2,Hogar,66000.0,37520.0
+30,Cortina modelo 3,Hogar,54900.0,25220.0
+31,Auriculares modelo 1,Electrónica,23700.0,13540.0
+32,Auriculares modelo 2,Electrónica,63500.0,30740.0
+33,Auriculares modelo 3,Electrónica,47800.0,22130.0
+34,Cargador modelo 1,Electrónica,37500.0,23990.0
+35,Cargador modelo 2,Electrónica,2800.0,1800.0
+36,Cargador modelo 3,Electrónica,8200.0,5020.0
+37,Mouse modelo 1,Electrónica,75300.0,38470.0
+38,Mouse modelo 2,Electrónica,77000.0,36150.0
+39,Mouse modelo 3,Electrónica,47300.0,27760.0
+40,Teclado modelo 1,Electrónica,71300.0,38360.0
+41,Teclado modelo 2,Electrónica,50300.0,23860.0
+42,Teclado modelo 3,Electrónica,14300.0,7850.0
+43,Parlante modelo 1,Electrónica,12600.0,5760.0
+44,Parlante modelo 2,Electrónica,27600.0,17440.0
+45,Parlante modelo 3,Electrónica,76600.0,38430.0
+46,Pelota modelo 1,Deportes,68100.0,39670.0
+47,Pelota modelo 2,Deportes,73400.0,37610.0
+48,Pelota modelo 3,Deportes,76600.0,42440.0
+49,Mancuernas modelo 1,Deportes,19400.0,10850.0
+50,Mancuernas modelo 2,Deportes,22700.0,11050.0
+51,Mancuernas modelo 3,Deportes,10500.0,6760.0
+52,Colchoneta modelo 1,Deportes,66700.0,40360.0
+53,Colchoneta modelo 2,Deportes,75400.0,48100.0
+54,Colchoneta modelo 3,Deportes,35700.0,22450.0
+55,Mochila deportiva modelo 1,Deportes,53500.0,30470.0
+56,Mochila deportiva modelo 2,Deportes,14800.0,9390.0
+57,Mochila deportiva modelo 3,Deportes,79200.0,37040.0
+58,Bicicleta modelo 1,Deportes,73800.0,36100.0
+59,Bicicleta modelo 2,Deportes,83000.0,38100.0
+60,Bicicleta modelo 3,Deportes,69300.0,35690.0

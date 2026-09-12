@@ -1,0 +1,89 @@
+﻿id_cliente,nombre,email,provincia,ciudad,fecha_alta,segmento
+1,Sofía Torres,sofía.torres1@email.com,Buenos Aires,CABA,2024-10-08,Particular
+2,Thiago Rodríguez,thiago.rodríguez2@email.com,Buenos Aires,CABA,2024-04-14,Particular
+3,Camila Pérez,camila.pérez3@email.com,Buenos Aires,CABA,2024-02-02,Particular
+4,Valentina López,valentina.lópez4@email.com,Buenos Aires,CABA,2024-08-26,Particular
+5,Facundo López,facundo.lópez5@email.com,Buenos Aires,CABA,2025-07-12,Empresa
+6,Thiago Sánchez,thiago.sánchez6@email.com,Buenos Aires,CABA,2024-10-11,Particular
+7,Delfina Pérez,delfina.pérez7@email.com,Buenos Aires,La Plata,2024-12-14,Empresa
+8,Martina López,martina.lópez8@email.com,Buenos Aires,La Plata,2024-12-10,Particular
+9,Valentina Pérez,valentina.pérez9@email.com,Buenos Aires,La Plata,2024-04-09,Empresa
+10,Gonzalo García,gonzalo.garcía10@email.com,Buenos Aires,La Plata,2024-09-27,Particular
+11,Ignacio Sánchez,ignacio.sánchez11@email.com,Buenos Aires,La Plata,2025-07-03,Particular
+12,Federico Pérez,federico.pérez12@email.com,Buenos Aires,La Plata,2024-03-21,Empresa
+13,Milagros Álvarez,milagros.álvarez13@email.com,Buenos Aires,La Plata,2025-01-05,Particular
+14,Mateo Álvarez,mateo.álvarez14@email.com,Buenos Aires,Mar del Plata,2024-08-21,Empresa
+15,Valentina Ramírez,valentina.ramírez15@email.com,Buenos Aires,Mar del Plata,2024-08-26,Particular
+16,Julieta Martínez,julieta.martínez16@email.com,Buenos Aires,Mar del Plata,2025-04-09,Empresa
+17,Benjamín García,benjamín.garcía17@email.com,Buenos Aires,Mar del Plata,2024-12-29,Particular
+18,Nicolás Martínez,nicolás.martínez18@email.com,Buenos Aires,Mar del Plata,2024-03-14,Particular
+19,Facundo Torres,facundo.torres19@email.com,Buenos Aires,Mar del Plata,2024-09-07,Particular
+20,Julieta Martínez,julieta.martínez20@email.com,Buenos Aires,Bahía Blanca,2025-07-24,Particular
+21,Nicolás García,nicolás.garcía21@email.com,Buenos Aires,Bahía Blanca,2024-02-27,Particular
+22,Milagros Gómez,milagros.gómez22@email.com,Buenos Aires,Bahía Blanca,2024-11-19,Empresa
+23,Isabella Fernández,isabella.fernández23@email.com,Buenos Aires,Bahía Blanca,2024-08-04,Empresa
+24,Emma Álvarez,emma.álvarez24@email.com,Buenos Aires,Bahía Blanca,2025-05-26,Empresa
+25,Antonella Flores,antonella.flores25@email.com,Buenos Aires,Bahía Blanca,2025-04-14,Particular
+26,Isabella Rodríguez,isabella.rodríguez26@email.com,Buenos Aires,Bahía Blanca,2024-09-09,Empresa
+27,Ignacio Díaz,ignacio.díaz27@email.com,Buenos Aires,Bahía Blanca,2025-03-14,Empresa
+28,Joaquín López,joaquín.lópez28@email.com,Buenos Aires,Bahía Blanca,2024-05-21,Empresa
+29,Victoria Gómez,victoria.gómez29@email.com,Córdoba,Córdoba Capital,2024-04-22,Particular
+30,Lucía Rodríguez,lucía.rodríguez30@email.com,Córdoba,Córdoba Capital,2025-03-08,Particular
+31,Julieta Pérez,julieta.pérez31@email.com,Córdoba,Córdoba Capital,2025-04-24,Empresa
+32,Facundo Ramírez,facundo.ramírez32@email.com,Córdoba,Córdoba Capital,2024-01-12,Particular
+33,Nicolás Flores,nicolás.flores33@email.com,Córdoba,Córdoba Capital,2025-07-03,Empresa
+34,Victoria Álvarez,victoria.álvarez34@email.com,Córdoba,Córdoba Capital,2024-12-14,Particular
+35,Bautista Rodríguez,bautista.rodríguez35@email.com,Córdoba,Río Cuarto,2025-04-09,Particular
+36,Ignacio Flores,ignacio.flores36@email.com,Córdoba,Río Cuarto,2024-09-26,Particular
+37,Renata Flores,renata.flores37@email.com,Córdoba,Río Cuarto,2024-04-18,Empresa
+38,Milagros Álvarez,milagros.álvarez38@email.com,Córdoba,Río Cuarto,2025-06-03,Particular
+39,Martina García,martina.garcía39@email.com,Córdoba,Río Cuarto,2024-06-14,Particular
+40,Tomás García,tomás.garcía40@email.com,Córdoba,Río Cuarto,2025-05-15,Particular
+41,Lucas Flores,lucas.flores41@email.com,Córdoba,Río Cuarto,2025-01-06,Empresa
+42,Thiago Gómez,thiago.gómez42@email.com,Córdoba,Río Cuarto,2024-09-03,Particular
+43,Ignacio Sánchez,ignacio.sánchez43@email.com,Córdoba,Villa María,2024-03-11,Particular
+44,Martina Álvarez,martina.álvarez44@email.com,Córdoba,Villa María,2025-05-01,Particular
+45,Isabella Romero,isabella.romero45@email.com,Córdoba,Villa María,2025-03-09,Particular
+46,Federico Romero,federico.romero46@email.com,Córdoba,Villa María,2024-07-24,Empresa
+47,Julieta Álvarez,julieta.álvarez47@email.com,Córdoba,Villa María,2025-01-17,Empresa
+48,Antonella Romero,antonella.romero48@email.com,Córdoba,Villa María,2025-04-07,Particular
+49,Thiago Fernández,thiago.fernández49@email.com,Santa Fe,Rosario,2024-12-12,Particular
+50,Camila Romero,camila.romero50@email.com,Santa Fe,Rosario,2024-08-23,Particular
+51,Sofía Fernández,sofía.fernández51@email.com,Santa Fe,Rosario,2024-03-01,Particular
+52,Valentina Flores,valentina.flores52@email.com,Santa Fe,Rosario,2024-02-02,Empresa
+53,Valentina Romero,valentina.romero53@email.com,Santa Fe,Rosario,2024-08-31,Empresa
+54,Nicolás Sánchez,nicolás.sánchez54@email.com,Santa Fe,Rosario,2024-08-07,Particular
+55,Ignacio Flores,ignacio.flores55@email.com,Santa Fe,Rosario,2025-08-07,Empresa
+56,Franco Sánchez,franco.sánchez56@email.com,Santa Fe,Santa Fe Capital,2025-02-20,Particular
+57,Lucas Fernández,lucas.fernández57@email.com,Santa Fe,Santa Fe Capital,2025-03-17,Empresa
+58,Bautista Pérez,bautista.pérez58@email.com,Santa Fe,Santa Fe Capital,2025-04-23,Particular
+59,Nicolás Álvarez,nicolás.álvarez59@email.com,Santa Fe,Santa Fe Capital,2024-04-10,Particular
+60,Julieta Torres,julieta.torres60@email.com,Santa Fe,Santa Fe Capital,2024-12-13,Particular
+61,Thiago López,thiago.lópez61@email.com,Santa Fe,Santa Fe Capital,2024-07-13,Empresa
+62,Martina Pérez,martina.pérez62@email.com,Santa Fe,Santa Fe Capital,2024-07-06,Empresa
+63,Thiago Ramírez,thiago.ramírez63@email.com,Santa Fe,Rafaela,2024-03-18,Empresa
+64,Franco Ramírez,franco.ramírez64@email.com,Santa Fe,Rafaela,2025-07-17,Particular
+65,Mateo Álvarez,mateo.álvarez65@email.com,Santa Fe,Rafaela,2025-07-07,Particular
+66,Valentina Flores,valentina.flores66@email.com,Santa Fe,Rafaela,2024-08-30,Particular
+67,Bautista Sánchez,bautista.sánchez67@email.com,Santa Fe,Rafaela,2025-05-07,Particular
+68,Gonzalo Pérez,gonzalo.pérez68@email.com,Santa Fe,Rafaela,2024-03-01,Particular
+69,Julieta Gómez,julieta.gómez69@email.com,Santa Fe,Rafaela,2025-02-03,Empresa
+70,Federico Ruiz,federico.ruiz70@email.com,Santa Fe,Rafaela,2025-04-10,Empresa
+71,Bautista Torres,bautista.torres71@email.com,Santa Fe,Rafaela,2025-07-23,Empresa
+72,Emma Martínez,emma.martínez72@email.com,Mendoza,Mendoza Capital,2024-08-10,Particular
+73,Camila Torres,camila.torres73@email.com,Mendoza,Mendoza Capital,2025-07-09,Particular
+74,Ignacio García,ignacio.garcía74@email.com,Mendoza,Mendoza Capital,2024-02-28,Particular
+75,Camila Sánchez,camila.sánchez75@email.com,Mendoza,Mendoza Capital,2025-05-29,Particular
+76,Mateo Romero,mateo.romero76@email.com,Mendoza,Mendoza Capital,2024-03-23,Particular
+77,Valentina Díaz,valentina.díaz77@email.com,Mendoza,Mendoza Capital,2024-03-10,Particular
+78,Julieta Fernández,julieta.fernández78@email.com,Mendoza,Mendoza Capital,2025-08-06,Particular
+79,Tomás Gómez,tomás.gómez79@email.com,Mendoza,San Rafael,2024-03-24,Empresa
+80,Nicolás Díaz,nicolás.díaz80@email.com,Mendoza,San Rafael,2025-08-01,Empresa
+81,Federico Martínez,federico.martínez81@email.com,Mendoza,San Rafael,2024-07-28,Empresa
+82,Thiago Martínez,thiago.martínez82@email.com,Mendoza,San Rafael,2025-02-09,Particular
+83,Nicolás Álvarez,nicolás.álvarez83@email.com,Mendoza,San Rafael,2024-11-03,Empresa
+84,Catalina Flores,catalina.flores84@email.com,Mendoza,San Rafael,2024-03-15,Particular
+85,Emilia Díaz,emilia.díaz85@email.com,Mendoza,San Rafael,2025-07-30,Particular
+86,Valentina Romero,valentina.romero86@email.com,Mendoza,San Rafael,2024-08-06,Empresa
+87,Martina Flores,martina.flores87@email.com,Mendoza,San Rafael,2024-12-23,Particular
+88,Antonella López,antonella.lópez88@email.com,Mendoza,San Rafael,2025-01-13,Empresa

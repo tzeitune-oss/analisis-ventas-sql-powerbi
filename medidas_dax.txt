@@ -1,0 +1,59 @@
+MEDIDAS DAX — Proyecto de Análisis de Ventas (Power BI)
+=========================================================
+Modelo: clientes (1) -> (N) pedidos (1) -> (N) detalle_pedidos (N) -> (1) productos
+Estas medidas se crean en Power BI Desktop, sobre este modelo de datos,
+una vez importados los 4 CSV con Power Query.
+
+-- Medida base: ventas totales
+Ventas Totales =
+SUMX(
+    detalle_pedidos,
+    detalle_pedidos[cantidad] * detalle_pedidos[precio_unitario_venta]
+)
+
+-- Solo pedidos completados (usa CALCULATE para modificar el contexto)
+Ventas Completadas =
+CALCULATE(
+    [Ventas Totales],
+    pedidos[estado] = "Completado"
+)
+
+-- Costo total y margen
+Costo Total =
+SUMX(
+    detalle_pedidos,
+    detalle_pedidos[cantidad] * RELATED(productos[costo_unitario])
+)
+
+Margen ($) = [Ventas Completadas] - [Costo Total]
+Margen (%) = DIVIDE([Margen ($)], [Ventas Completadas], 0)
+
+-- Cantidad de pedidos y ticket promedio
+Cantidad de Pedidos = DISTINCTCOUNT(pedidos[id_pedido])
+Ticket Promedio = DIVIDE([Ventas Completadas], [Cantidad de Pedidos], 0)
+
+-- Comparación en el tiempo: ventas del mismo período, año anterior
+Ventas Año Anterior =
+CALCULATE(
+    [Ventas Completadas],
+    SAMEPERIODLASTYEAR('Calendario'[Fecha])
+)
+
+Variación YoY (%) =
+DIVIDE(
+    [Ventas Completadas] - [Ventas Año Anterior],
+    [Ventas Año Anterior],
+    0
+)
+
+-- Acumulado del año (year to date)
+Ventas YTD =
+CALCULATE(
+    [Ventas Completadas],
+    DATESYTD('Calendario'[Fecha])
+)
+
+NOTA: 'Calendario' es una tabla de fechas separada (buena práctica en
+Power BI), relacionada con pedidos[fecha_pedido]. Se crea con
+CALENDAR() o CALENDARAUTO() y se marca como "tabla de fechas" en el
+modelo.
